@@ -1,0 +1,7 @@
+17;Ali Kaya1;56;resim2.jpg;
+16;Mert Gurhan;45;resim1.jpg;
+18;Ali Kaya2;12;resim3.jpg;
+19;Ali Kaya3;98;resim4.jpg;
+20;Ali Kaya4;22;resim5.jpg;
+123;nr;21;resim.jpg;
+68;öm;12;resim.jpg;
